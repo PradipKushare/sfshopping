@@ -1,0 +1,12 @@
+  /**
+    Main Webpage
+  */
+  .web-page {
+    background-repeat: repeat;
+    background-size: 100% auto;
+    float: left;
+    width: 100%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: white;
+  }

@@ -1,0 +1,17 @@
+export const KEYWORD_SEARCH = 'KEYWORD_SEARCH';
+
+export const SET_LOGIN_ID = 'SET_LOGIN_ID';
+
+export const LOCALSTORAGE_CART_DATA = 'LOCALSTORAGE_CART_DATA';
+
+export const MOBILE_MODAL = 'MOBILE_MODAL';
+
+
+
+
+
+
+
+
+
+
